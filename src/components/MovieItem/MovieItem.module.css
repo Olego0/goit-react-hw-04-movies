@@ -1,0 +1,35 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.backButton {
+  padding: 10px;
+  margin: 20px;
+  background-color: #45ffff;
+}
+.previewPicture {
+  margin: 20px;
+  margin-top: 0px;
+}
+.info > h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.genres {
+  display: flex;
+}
+.genres > p {
+  margin-right: 8px;
+}
+.linkList {
+  list-style: none;
+}
+.addition {
+  width: 100%;
+  box-shadow: 0 0 0 3px #45ffff;
+  padding: 20px;
+  margin-top: 10px;
+  /* display: flex;
+  justify-content: space-between; */
+}
